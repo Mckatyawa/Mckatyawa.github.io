@@ -1,0 +1,226 @@
+body{
+  background-image: url(images/fon2.png);
+}
+#header{
+  background-image: url(images/header.jpg);
+  width:100%;
+  height:90px;
+  font-family: cursive;
+  font-size: 40px;
+  font-weight: bold;
+  color:white;
+  text-shadow: 2px 2px 2px black;
+  text-align: center;
+  padding-top: 20px;
+  border-bottom: 2px solid black;
+}
+#main{
+  background-image: url(images/menu2.jpg);
+  min-height:100px;
+}
+*{
+  margin:0px;
+  padding:0px;
+}
+.link1 {
+  font-size: 30px;
+  font-weight: 600;
+  color: white;
+  position: relative;
+  left: 0px;
+  top: 20px;
+  text-decoration: none;
+  text-shadow: 0 1px 1px #000;
+}
+.menu ul, .menu ol {
+  list-style: none;
+}
+
+.menu>ul {
+  display: flex;
+  justify-content: center;
+}
+
+.menu>ul li a {
+  display: block;
+  padding: 10px 30px 10px 40px;
+}
+
+.menu>ul li {
+  position: relative;
+}
+
+.menu li a:hover {
+  color: #0c0c0c;
+  box-shadow: 1px 5px 10px -5px black;
+  transition: all 1s ease;
+}
+#linx1{
+  color: #0c0c0c;
+  transition: all 1s ease;
+}
+#main2{
+  background-color: #f7f7f7;
+  margin-left:20px;
+  margin-right: 20px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: comic sans ms;
+  font-size: 30px;
+  box-shadow: 1px 5px 20px -5px black;
+  min-height:400px;
+}
+.link2{
+  display:none;
+}
+#menu2{
+  position: absolute;
+
+  background-image: url(images/menu2.jpg);
+  margin-top: 10px;
+  padding-top:0px;
+}
+#linx1{
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    position: relative;
+    left: 0px;
+    top: 20px;
+    text-decoration: none;
+    text-shadow: 0 1px 1px #000;
+}
+#linx2{
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    position: relative;
+    left: 0px;
+    text-decoration: none;
+    text-shadow: 0 1px 1px #000;
+    display: none;
+    text-align: center;
+}
+#linx3{
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    position: relative;
+    left: 0px;
+    text-decoration: none;
+    text-shadow: 0 1px 1px #000;
+    display: none;
+    text-align: center;
+}
+#linx4{
+    font-size: 30px;
+    font-weight: 600;
+    color: white;
+    position: relative;
+    left: 0px;
+    text-decoration: none;
+    text-shadow: 0 1px 1px #000;
+    display: none;
+    text-align: center;
+}
+#conec{
+  background: -webkit-linear-gradient(bottom left, #EECFBA, #C5DDE8);
+  border-radius: 5px;
+  min-height:50px;
+  margin-top: 10px;
+  text-align: center;
+  font-family: comic sans ms;
+  font-size: 20px;
+}
+#prir{
+  position: relative;
+  min-width: 72px;
+  min-height: 720px;
+  margin:20px;
+  background-image: url(images/priroda.jpg);
+  box-shadow: 5px 5px 20px -5px black;
+  border: 3px double black;
+  border-radius:10px;
+}
+#blok{
+  position:relative;
+  opacity: 0.8;
+  background-color:white;
+  min-width: 72px;
+  min-height: 720px;
+  margin:50px;
+  border-radius:10px;
+}
+.opa{
+  font-size: 40px;
+  font-weight: 600;
+  text-align: center;
+  padding: 40px;
+  font-family: comic sans ms;
+  text-shadow: -1px 1px 1px black;
+}
+#n1{
+  padding-top:60px;
+}
+.vid{
+  text-decoration: none;
+  color:black;
+  font-size: 40px;
+  font-weight: 600;
+  padding-left:70px;
+  padding-right: 70px;
+}
+.blok2{
+  position:relative;
+  opacity: 1;
+  background-color:white;
+  min-width: 72px;
+  min-height: 720px;
+  margin:50px;
+  border-radius:10px;
+  box-shadow: 5px 5px 20px -5px black;
+}
+.ta1{
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+  padding: 40px;
+  font-family:;
+  text-shadow: -1px 1px 1px black;
+}
+.imgt{
+  padding:40px;
+}
+.pust1{
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+  padding: 40px;
+  font-family:;
+  text-shadow: -1px 1px 1px black;
+}
+.ocean{
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+  padding: 40px;
+  font-family:;
+  text-shadow: -1px 1px 1px black;
+}
+.gora{
+  font-size: 40px;
+  font-weight: 500;
+  text-align: center;
+  padding: 40px;
+  font-family:;
+  text-shadow: -1px 1px 1px black;
+}
+.gora1{
+  padding:40px;
+}
+.glav{
+  position: relative;
+  text-align: center;
+  font-size: 30px;
+  font-family: cursive;
+}
